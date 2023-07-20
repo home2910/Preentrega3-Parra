@@ -23,6 +23,7 @@ header {
                 margin-left: 50px;
                 align-items: center;
                 color: $colors-main;
+                
             }
         }
     }
@@ -133,42 +134,49 @@ main {
     color: $colors-main;
     justify-self: center;
     grid-area: explain;
+    text-align: center;
 }
 
 .generos-h4-1 {
     color: $colors-main;
     justify-self: center;
     grid-area: rpg;
+    text-align: center;
 }
 
 .generos-h4-2 {
     color: $colors-main;
     justify-self: center;
     grid-area: hs;
+    text-align: center;
 }
 
 .generos-h4-3 {
     color: $colors-main;
     justify-self: center;
     grid-area: disparos;
+    text-align: center;
 }
 
 .generos-h4-4 {
     color: $colors-main;
     justify-self: center;
     grid-area: br;
+    text-align: center;
 }
 
 .generos-h4-5 {
     color: $colors-main;
     justify-self: center;
     grid-area: sim;
+    text-align: center;
 }
 
 .generos-h4-6 {
     color: $colors-main;
     justify-self: center;
     grid-area: deporte;
+    text-align: center;
 }
 
 // SOBRE NOSOTROS
