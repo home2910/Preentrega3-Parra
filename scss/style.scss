@@ -378,14 +378,14 @@ main {
             "form";
         grid-gap: 50px;
         margin-top: 90px;
-        a{
+        a {
             font-size: 17px;
-        display: inline-block;
-        text-decoration: none;
-        width: 100%;
-        margin-bottom: 15px;
-        color: white;
-        font-weight: 700;
+            display: inline-block;
+            text-decoration: none;
+            width: 100%;
+            margin-bottom: 15px;
+            color: white;
+            font-weight: 700;
         }
     }
 
@@ -398,11 +398,10 @@ main {
             "form";
         grid-gap: 50px;
         margin-top: 90px;
-        i{
+        i {
             color: orange;
             margin-right: 10px;
         }
-
     }
 
     .container-form {
@@ -473,7 +472,19 @@ main {
             }
         }
     }
-    
-    
+}
 
+// FOOTER
+
+.footer{
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: $colors-main;
+    a{
+    text-decoration: none;
+    color: $colors-main;
+    font-size: 18px;
+    }
 }
